@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+
+# JetBrains IDE files
+.idea/
+ecommerce-api/.idea/
+ecommerce-api/.idea/vcs.xml
+ecommerce-api/.idea/workspace.xml
+
+# Maven wrapper
+mvnw
+mvnw.cmd
+
+target/
+
+# General helper files
+HELP.md
